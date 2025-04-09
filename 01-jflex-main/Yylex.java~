@@ -540,7 +540,7 @@ class Yylex {
             // fall through
           case 3: break;
           case 2: 
-            { System.out.println("TAB");
+            { System.out.print("TAB ");
             } 
             // fall through
           case 4: break;

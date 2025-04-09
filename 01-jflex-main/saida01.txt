@@ -1,0 +1,5 @@
+se("casar")
+TAB o código entre chaves é executado
+senão
+TAB o default é escrever o próprio 
+TAB caractere na saída
