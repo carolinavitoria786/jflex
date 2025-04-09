@@ -1,0 +1,20 @@
+ -> Encontrei um <DIGITO>
+
+ -> Encontrei um <IDENTIFICADOR>
+
+
+ -> Encontrei um <DIGITO>
+
+ -> Encontrei um <IDENTIFICADOR>
+
+ -> Encontrei um <DIGITO>
+ -> Encontrei um <IDENTIFICADOR>
+
+ -> Encontrei um <IDENTIFICADOR>
+
+ -> Encontrei um <IDENTIFICADOR>
+
+ -> Encontrei um <IDENTIFICADOR>
+
+ -> Encontrei um <DIGITO>
+

@@ -1,0 +1,14 @@
+ -> Encontrei uma {palavra}
+
+ -> Encontrei uma {palavra}
+
+ -> Encontrei uma {palavra}
+ -> Encontrei um {número}
+
+ -> Encontrei um {número}
+ -> Encontrei uma {palavra}
+
+ -> Encontrei um {número}
+ -> Encontrei uma {palavra}
+
+ -> Encontrei um {número}
