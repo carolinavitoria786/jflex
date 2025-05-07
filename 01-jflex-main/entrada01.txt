@@ -1,5 +1,0 @@
-se("casar")
-	o código entre chaves é executado
-senão
-	o default é escrever o próprio 
-	caractere na saída

@@ -1,3 +1,0 @@
-Bla bla bla...
-	Esta linha inicia com tabulação
-		Esta, com duas tabulações
