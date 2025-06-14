@@ -1,0 +1,21 @@
+[0][0] public: Modificador de acesso.
+[0][7] class: Declaração de classe.
+[0][13] Principal: Identificador.
+[0][23] {: Abre chave.
+[1][2] public: Modificador de acesso.
+[1][9] static: Modificador static.
+[1][16] void: Tipo void.
+[1][21] main: Método main.
+[1][25] (: Abre parêntese.
+[1][26] String: Identificador.
+[1][32] [: Abre colchete.
+[1][33] ]: Fecha colchete.
+[1][35] args: Identificador.
+[1][39] ): Fecha parêntese.
+[1][41] {: Abre chave.
+[2][4] int: Tipo int.
+[2][7] [: Abre colchete.
+[2][8] ]: Fecha colchete.
+[2][10] numeros: Identificador.
+[2][18] =: Caractere inválido.
+Unexpected exception:

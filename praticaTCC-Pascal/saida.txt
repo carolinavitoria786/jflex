@@ -1,0 +1,21 @@
+[0][0] delta: Identificador.
+[0][6] :=: Atribuição ':='.
+[0][9] b: Identificador.
+[0][11] *: Operador '*'.
+[0][13] b: Identificador.
+[0][15] -: Operador '-'.
+[0][17] 4: Número inteiro.
+[0][19] *: Operador '*'.
+[0][21] a: Identificador.
+[0][23] *: Operador '*'.
+[0][25] c: Identificador.
+[0][26] ;: Ponto e vírgula.
+[1][0] if: Palavra-chave 'if'.
+[1][3] delta: Identificador.
+[1][9] <: Operador '<'.
+[1][11] 0: Número inteiro.
+[1][13] then: Palavra-chave 'then'.
+[2][0] writeln: Função 'writeln'.
+[2][8] (: Abre parêntese.
+[2][9] ': Caractere inválido.
+Unexpected exception:

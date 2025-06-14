@@ -1,0 +1,39 @@
+[0][0] int: Tipo int.
+[0][4] main: Função principal.
+[0][8] (: Abre parêntese.
+[0][9] ): Fecha parêntese.
+[0][11] {: Abre chave.
+[1][2] int: Tipo int.
+[1][6] contador: Identificador.
+[1][15] =: Atribuição '='.
+[1][17] 1: Número inteiro.
+[1][18] ;: Ponto e vírgula.
+[2][2] int: Tipo int.
+[2][6] soma: Identificador.
+[2][11] =: Atribuição '='.
+[2][13] 0: Número inteiro.
+[2][14] ;: Ponto e vírgula.
+[3][2] while: Laço while.
+[3][7] (: Abre parêntese.
+[3][8] contador: Identificador.
+[3][17] <=: Operador '<='.
+[3][20] 10: Número inteiro.
+[3][22] ): Fecha parêntese.
+[3][24] {: Abre chave.
+[4][4] soma: Identificador.
+[4][9] +=: Operador '+='.
+[4][12] contador: Identificador.
+[4][20] ;: Ponto e vírgula.
+[5][4] contador: Identificador.
+[5][12] ++: Operador '++'.
+[5][14] ;: Ponto e vírgula.
+[6][2] }: Fecha chave.
+[7][2] printf: Função printf.
+[7][8] (: Abre parêntese.
+[7][9] soma: Identificador.
+[7][13] ): Fecha parêntese.
+[7][14] ;: Ponto e vírgula.
+[8][2] return: Palavra-chave return.
+[8][9] 0: Número inteiro.
+[8][10] ;: Ponto e vírgula.
+[9][0] }: Fecha chave.
